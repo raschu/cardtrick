@@ -1,0 +1,233 @@
+
+body {
+margin: 0;
+margin-bottom: 25px;
+padding: 0;
+background-color: #ddd;
+/*background-image: url("/images/jass-gruen.jpg");*/
+background-repeat: no-repeat;
+background-position: top left;
+
+font-family: "Lucida Grande", "Bitstream Vera Sans", "Verdana";
+font-size: 13px;
+color: #333;
+}
+
+h1 {
+font-size: 28px;
+color: #000;
+}
+
+a  {color: #03c}
+a:hover {
+background-color: #03c;
+color: white;
+text-decoration: none;
+}
+
+#page {
+background-color: #ddd;
+width: 750px;
+margin: auto;
+margin-left: auto;
+padding-left: 0px;
+margin-right: auto;
+}
+
+#content {
+background-color: white;
+border: 3px solid #aaa;
+border-top: none;
+padding: 25px;
+width: 500px;
+}
+
+#sidebar {
+float: right;
+width: 175px;
+}
+
+#header, #about, #getting-started {
+padding-left: 75px;
+padding-right: 30px;
+}
+
+
+#header {
+background-image: url("/images/perldancer.jpg");
+background-repeat: no-repeat;
+background-position: top left;
+height: 64px;
+}
+#header h1, #header h2 {margin: 0}
+#header h2 {
+color: #888;
+font-weight: normal;
+font-size: 16px;
+}
+
+#about h3 {
+margin: 0;
+margin-bottom: 10px;
+font-size: 14px;
+}
+
+#about-content {
+background-color: #ffd;
+border: 1px solid #fc0;
+margin-left: -11px;
+}
+#about-content table {
+margin-top: 10px;
+margin-bottom: 10px;
+font-size: 11px;
+border-collapse: collapse;
+}
+#about-content td {
+padding: 10px;
+padding-top: 3px;
+padding-bottom: 3px;
+}
+#about-content td.name  {color: #555}
+#about-content td.value {color: #000}
+
+#about-content.failure {
+background-color: #fcc;
+border: 1px solid #f00;
+}
+#about-content.failure p {
+margin: 0;
+padding: 10px;
+}
+
+#getting-started {
+border-top: 1px solid #ccc;
+margin-top: 25px;
+padding-top: 15px;
+}
+#getting-started h1 {
+margin: 0;
+font-size: 20px;
+}
+#getting-started h2 {
+margin: 0;
+font-size: 14px;
+font-weight: normal;
+color: #333;
+margin-bottom: 25px;
+}
+#getting-started ol {
+margin-left: 0;
+padding-left: 0;
+}
+#getting-started li {
+font-size: 18px;
+color: #888;
+margin-bottom: 25px;
+}
+#getting-started li h2 {
+margin: 0;
+font-weight: normal;
+font-size: 18px;
+color: #333;
+}
+#getting-started li p {
+color: #555;
+font-size: 13px;
+}
+
+#search {
+margin: 0;
+padding-top: 10px;
+padding-bottom: 10px;
+font-size: 11px;
+}
+#search input {
+font-size: 11px;
+margin: 2px;
+}
+#search-text {width: 170px}
+
+#sidebar ul {
+margin-left: 0;
+padding-left: 0;
+}
+#sidebar ul h3 {
+margin-top: 25px;
+font-size: 16px;
+padding-bottom: 10px;
+border-bottom: 1px solid #ccc;
+}
+#sidebar li {
+list-style-type: none;
+}
+#sidebar ul.links li {
+margin-bottom: 5px;
+}
+
+h1, h2, h3, h4, h5 {
+font-family: sans-serif;
+margin: 1.2em 0 0.6em 0;
+}
+
+p {
+line-height: 1.5em;
+margin: 1.6em 0;
+}
+
+code, .filepath, .app-info {
+    font-family: 'Andale Mono', Monaco, 'Liberation Mono', 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', monospace;
+}
+
+#footer {
+clear: both;
+padding-top: 2em;
+text-align: center;
+padding-right: 160px;
+font-family: sans-serif;
+font-size: 10px;
+}
+
+
+.p01 {position: absolute; top: 70px; left: 180px;}
+.p02 {position: absolute; top: 110px; left: 180px;}
+.p03 {position: absolute; top: 150px; left: 180px;}
+.p04 {position: absolute; top: 190px; left: 180px;}
+.p05 {position: absolute; top: 230px; left: 180px;}
+.p06 {position: absolute; top: 270px; left: 180px;}
+.p07 {position: absolute; top: 310px; left: 180px;}
+.p08 {position: absolute; top: 350px; left: 180px;}
+.p09 {position: absolute; top: 390px; left: 180px;}
+.p10 {position: absolute; top: 430px; left: 180px;}
+.p11 {position: absolute; top: 470px; left: 180px;}
+.p12 {position: absolute; top: 510px; left: 180px;} 
+
+.p13 {position: absolute; top: 70px; left: 310px;}
+.p14 {position: absolute; top: 110px; left: 310px;}
+.p15 {position: absolute; top: 150px; left: 310px;}
+.p16 {position: absolute; top: 190px; left: 310px;}
+.p17 {position: absolute; top: 230px; left: 310px;}
+.p18 {position: absolute; top: 270px; left: 310px;}
+.p19 {position: absolute; top: 310px; left: 310px;}
+.p20 {position: absolute; top: 350px; left: 310px;}
+.p21 {position: absolute; top: 390px; left: 310px;}
+.p22 {position: absolute; top: 430px; left: 310px;}
+.p23 {position: absolute; top: 470px; left: 310px;}
+.p24 {position: absolute; top: 510px; left: 310px;}
+
+.p25 {position: absolute; top: 70px; left: 440px;}
+.p26 {position: absolute; top: 110px; left: 440px;}
+.p27 {position: absolute; top: 150px; left: 440px;}
+.p28 {position: absolute; top: 190px; left: 440px;}
+.p29 {position: absolute; top: 230px; left: 440px;}
+.p30 {position: absolute; top: 270px; left: 440px;}
+.p31 {position: absolute; top: 310px; left: 440px;}
+.p32 {position: absolute; top: 350px; left: 440px;}
+.p33 {position: absolute; top: 390px; left: 440px;}
+.p34 {position: absolute; top: 430px; left: 440px;}
+.p35 {position: absolute; top: 470px; left: 440px;}
+.p36 {position: absolute; top: 510px; left: 440px;}
+
+.p50 {position: absolute; top: 650px; left: 198px;}
+.p51 {position: absolute; top: 650px; left: 328px;}
+.p52 {position: absolute; top: 650px; left: 458px;}

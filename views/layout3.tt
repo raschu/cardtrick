@@ -1,0 +1,8 @@
+<div id="page">
+	<div id="content" align="center">
+		Tada!!!
+		<img src="/images/<% kartefound %>.jpg" class="p16">
+		<a href="/">new try</a>
+
+	</div>
+</div>

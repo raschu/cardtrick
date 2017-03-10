@@ -1,0 +1,49 @@
+<div id="page">
+	<div align= "center" id="content">
+		...and now click again the row which is including your card
+	</div>
+</div>
+	<img src="/images/<% k01 %>.jpg" class="p01">
+	<img src="/images/<% k02 %>.jpg" class="p02">
+	<img src="/images/<% k03 %>.jpg" class="p03">	
+	<img src="/images/<% k04 %>.jpg" class="p04">
+	<img src="/images/<% k05 %>.jpg" class="p05">
+	<img src="/images/<% k06 %>.jpg" class="p06">
+	<img src="/images/<% k07 %>.jpg" class="p07">
+	<img src="/images/<% k08 %>.jpg" class="p08">
+	<img src="/images/<% k09 %>.jpg" class="p09">
+	<img src="/images/<% k10 %>.jpg" class="p10">
+	<img src="/images/<% k11 %>.jpg" class="p11">
+	<img src="/images/<% k12 %>.jpg" class="p12">
+										
+	<img src="/images/<% k13 %>.jpg" class="p13">
+	<img src="/images/<% k14 %>.jpg" class="p14">
+	<img src="/images/<% k15 %>.jpg" class="p15">	
+	<img src="/images/<% k16 %>.jpg" class="p16">
+	<img src="/images/<% k17 %>.jpg" class="p17">
+	<img src="/images/<% k18 %>.jpg" class="p18">
+	<img src="/images/<% k19 %>.jpg" class="p19">
+	<img src="/images/<% k20 %>.jpg" class="p20">
+	<img src="/images/<% k21 %>.jpg" class="p21">
+	<img src="/images/<% k22 %>.jpg" class="p22">
+	<img src="/images/<% k23 %>.jpg" class="p23">
+	<img src="/images/<% k24 %>.jpg" class="p24">
+	
+	<img src="/images/<% k25 %>.jpg" class="p25">
+	<img src="/images/<% k26 %>.jpg" class="p26">
+	<img src="/images/<% k27 %>.jpg" class="p27">	
+	<img src="/images/<% k28 %>.jpg" class="p28">
+	<img src="/images/<% k29 %>.jpg" class="p29">
+	<img src="/images/<% k30 %>.jpg" class="p30">
+	<img src="/images/<% k31 %>.jpg" class="p31">
+	<img src="/images/<% k32 %>.jpg" class="p32">
+	<img src="/images/<% k33 %>.jpg" class="p33">
+	<img src="/images/<% k34 %>.jpg" class="p34">
+	<img src="/images/<% k35 %>.jpg" class="p35">
+	<img src="/images/<% k36 %>.jpg" class="p36">
+	
+	
+	<a href="/l2/1" class="p50">row 1</a>
+	<a href="/l2/2" class="p51">row 2</a>	
+	<a href="/l2/3" class="p52">row 3</a>
+	
